@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "SVALKO",
+        "tensorShape": [
+          39999,
+          200
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/svalkoBot/svalkoBot.github.io/master/vecs_.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/svalkoBot/svalkoBot.github.io/master/meta_.tsv"
+      }
+    ]
+  }
